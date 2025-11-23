@@ -19,7 +19,7 @@ export function Footer() {
               color="white"
               className="mb-4"
             >
-              Material Tailwind
+              Bisindo App
             </Typography>
             <Typography color="white" className="mb-12 font-normal">
               The reward for getting on the stage is fame.
@@ -80,13 +80,9 @@ export function Footer() {
             color="white"
             className="text-center font-normal opacity-75"
           >
-            &copy; {CURRENT_YEAR} Made with{" "}
-            <a href="https://www.material-tailwind.com" target="_blank">
-              Material Tailwind
-            </a>{" "}
-            by{" "}
-            <a href="https://www.creative-tim.com" target="_blank">
-              Creative Tim
+            &copy; {CURRENT_YEAR} Made By{" "}
+            <a href="https://mmoshi.my.id" target="_blank">
+              Kelompok 13
             </a>
             .
           </Typography>

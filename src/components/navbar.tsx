@@ -68,12 +68,11 @@ export function Navbar() {
       <div className="container mx-auto flex items-center justify-between">
         <Typography
           as="a"
-          href="https://www.material-tailwind.com"
           target="_blank"
           variant="h6"
           color={isScrolling ? "gray" : "white"}
         >
-          Material Tailwind
+          Bisindo-Apps
         </Typography>
         <ul
           className={`ml-10 hidden items-center gap-6 lg:flex ${
@@ -109,9 +108,9 @@ export function Navbar() {
           >
             <i className="fa-brands fa-instagram text-base" />
           </IconButton>
-          <a href="https://www.material-tailwind.com/blocks" target="_blank">
+          <a href="https://github.com/HadiR-13?tab=repositories&q=Bisindo" target="_blank">
             <Button color={isScrolling ? "gray" : "white"} size="sm">
-              Blocks
+              Code
             </Button>
           </a>
         </div>

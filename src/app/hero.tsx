@@ -11,7 +11,7 @@ function Hero() {
         <div className="container mx-auto mt-32 grid h-full w-full grid-cols-1 place-items-center lg:mt-14 lg:grid-cols-2">
           <div className="col-span-1">
             <Typography variant="h1" color="white" className="mb-4">
-              Your Perfect <br /> Learning App
+              Your Perfect App for Learning Indonesia Sign Language 
             </Typography>
             <Typography
               variant="lead"
@@ -66,7 +66,7 @@ function Hero() {
       <div className="mx-8 lg:mx-16 -mt-24 rounded-xl bg-white p-5 md:p-14 shadow-md">
         <div>
           <Typography variant="h3" color="blue-gray" className="mb-3">
-            Learning App
+            Bisindo App
           </Typography>
           <Typography
             variant="paragraph"

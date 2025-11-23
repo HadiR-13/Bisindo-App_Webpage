@@ -10,21 +10,21 @@ const TESTIMONIALS = [
   {
     feedback:
       "It has been a game-changer for my business. Their dedication, expertise, and attention to detail have truly set them apart. I highly recommend their services!",
-    client: "Jessica Devis",
+    client: "Gonter Munte",
     title: "CEO @ MARKETING DIGITAL LTD.",
     img: "/image/avatar1.jpg",
   },
   {
     feedback:
       "It understood my unique needs and delivered a tailored solution promptly. Their customer support is top-notch, and I appreciate their commitment.",
-    client: "Mary Joshiash",
+    client: "Nadira Natalie",
     title: "MARKETING @ APPLE INC.",
     img: "/image/avatar2.jpg",
   },
   {
     feedback:
       "They not only met but exceeded our expectations. Their innovative approach and technical proficiency have been instrumental in our success.",
-    client: "Marcell Glock",
+    client: "Achmad Hadi",
     title: "CFO @ APPLE INC..",
     img: "/image/avatar3.jpg",
   },
@@ -39,7 +39,7 @@ export function Testimonials() {
             <UserIcon className="h-6 w-6" />
           </div>
           <Typography variant="h2" color="blue-gray" className="mb-2">
-            What Clients Say
+            Meet Our Team
           </Typography>
           <Typography
             variant="lead"
